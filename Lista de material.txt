@@ -1,0 +1,26 @@
+*************************
+Lista de Material
+*************************
+
+1 Modulo Bluetooth HC 05 (5 pines)
+1 Modulo L298N 
+1 Arduino Uno
+20 Cables jumper Macho-Macho
+10 Cables jumper Macho-Hembra
+1 Interruptor de 2 o 3 pines (2 posiciones)
+1 conector Pulg DC HEMBRA
+2 Baterias Li-ion de 3,7v o 4,2v (4000mAH minimo)
+1 portapilas para las baterias Li-ion
+1 Base Motriz (chasis)con motores incluidos
+  (Opcional) =modelo triciclo(2 Motores)
+                      =modelo 4x4 (4 motores)
+                      =chasis casero (juguete reciclado) actual video
+                         utiliza 2 motores enganchado con 2 ruedas
+                         en cada Motor.
+1 cable OTG (si se programa por celular)
+1 app ArduinoDroid (Programador) Gratis Playstore
+1 Aplicacion Androbot para controlar Robot APK
+
+*******************************
+No te olvides Apoyarme en Mi canal de youtube
+Un me gusta - Compartir - Sucripcion y comenta!!!
